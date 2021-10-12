@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/dashboard_item"
+        android:title="Dashboard"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/upload_item"
+        android:title="Upload Item"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/blank"
+        android:title=""
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/exit_item"
+        android:title="Exit"
+        app:showAsAction="never"/>
+
+</menu>
